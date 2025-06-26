@@ -12,6 +12,10 @@ Data source:- The data has been collected through Yahoo Finance
 
 Software Used:- Python, Microsoft Excel
 
+Research Paper:-https://drive.google.com/file/d/1A0aXS7f_UgojZDSHeupydgfNmRlFvTx9/view?usp=sharing
+
+PPT file:- https://docs.google.com/presentation/d/1jtCu2LhEUF9_o0CGOVOfm930Kf_uEQVR/edit?usp=sharing&ouid=106825323605301074873&rtpof=true&sd=true
+  
 
 
 
