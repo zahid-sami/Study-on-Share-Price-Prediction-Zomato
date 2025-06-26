@@ -13,6 +13,7 @@ Data source:- The data has been collected through Yahoo Finance
 Software Used:- Python, Microsoft Excel
 
 
-"C:\Users\zahid\OneDrive\Desktop\All Projects\Major project on zomato\60 zahid sami full research paper (AutoRecovered).pdf"
+
+[60 zahid sami full research paper (AutoRecovered).pdf](https://github.com/user-attachments/files/20930690/60.zahid.sami.full.research.paper.AutoRecovered.pdf)
 
 
