@@ -14,6 +14,5 @@ Software Used:- Python, Microsoft Excel
 
 
 
-[60 zahid sami full research paper (AutoRecovered).pdf](https://github.com/user-attachments/files/20930690/60.zahid.sami.full.research.paper.AutoRecovered.pdf)
 
 
