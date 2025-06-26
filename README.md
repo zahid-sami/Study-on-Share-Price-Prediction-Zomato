@@ -7,5 +7,7 @@ This business analysis pertains to Zomato, a leading Indian online food delivery
 
 
 Research Purpose:- This study is to analyze and predict Zomato’s stock price using historical data and statistical models to support informed investment decisions.
+
 Data source:- The data has been collected through Yahoo Finance
+
 Software Used:- Python, Microsoft Excel
